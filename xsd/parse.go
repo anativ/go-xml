@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/anativ/xml/internal/dependency"
-	"github.com/anativ/xml/xmltree"
+	"github.com/anativ/go-xml/internal/dependency"
+	"github.com/anativ/go-xml/xmltree"
 )
 
 func hasCycle(root *xmltree.Element, visited map[*xmltree.Element]struct{}) bool {

@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/anativ/xml/wsdlgen"
+	"github.com/anativ/go-xml/wsdlgen"
 )
 
 func main() {

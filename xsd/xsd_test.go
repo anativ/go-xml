@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/anativ/xml/xmltree"
+	"github.com/anativ/go-xml/xmltree"
 )
 
 type blob map[string]interface{}

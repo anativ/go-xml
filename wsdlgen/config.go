@@ -1,8 +1,8 @@
 package wsdlgen
 
 import (
-	"github.com/anativ/xml/wsdl"
-	"github.com/anativ/xml/xsdgen"
+	"github.com/anativ/go-xml/wsdl"
+	"github.com/anativ/go-xml/xsdgen"
 )
 
 // A Config contains parameters for the various code generation processes.

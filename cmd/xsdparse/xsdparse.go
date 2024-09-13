@@ -1,4 +1,4 @@
-package main // import "github.com/anativ/xml/cmd/xsdparse"
+package main // import "github.com/anativ/go-xml/cmd/xsdparse"
 
 import (
 	"flag"
@@ -7,8 +7,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/anativ/xml/xmltree"
-	"github.com/anativ/xml/xsd"
+	"github.com/anativ/go-xml/xmltree"
+	"github.com/anativ/go-xml/xsd"
 )
 
 var (

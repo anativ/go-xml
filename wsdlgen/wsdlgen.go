@@ -7,7 +7,7 @@
 //
 // Code generation for the wsdlgen package can be configured by using
 // the provided Option functions.
-package wsdlgen // import "github.com/anativ/xml/wsdlgen"
+package wsdlgen // import "github.com/anativ/go-xml/wsdlgen"
 
 import (
 	"encoding/xml"
@@ -17,10 +17,10 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/anativ/xml/internal/gen"
-	"github.com/anativ/xml/wsdl"
-	"github.com/anativ/xml/xsd"
-	"github.com/anativ/xml/xsdgen"
+	"github.com/anativ/go-xml/internal/gen"
+	"github.com/anativ/go-xml/wsdl"
+	"github.com/anativ/go-xml/xsd"
+	"github.com/anativ/go-xml/xsdgen"
 )
 
 // Types conforming to the Logger interface can receive information about

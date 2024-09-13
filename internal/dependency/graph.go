@@ -1,5 +1,5 @@
 // Package dependency builds and flattens dependency graphs.
-package dependency // import "github.com/anativ/xml/internal/dependency"
+package dependency // import "github.com/anativ/go-xml/internal/dependency"
 
 import (
 	"sort"

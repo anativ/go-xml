@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/anativ/xml/xmltree"
+	"github.com/anativ/go-xml/xmltree"
 )
 
 func ExampleElement_Search() {

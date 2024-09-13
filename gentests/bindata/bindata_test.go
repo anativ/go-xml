@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/anativ/xml/xmltree"
+	"github.com/anativ/go-xml/xmltree"
 )
 
 func TestBindata(t *testing.T) {

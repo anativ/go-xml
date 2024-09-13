@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/anativ/xml/xsdgen"
+	"github.com/anativ/go-xml/xsdgen"
 )
 
 type testLogger struct {

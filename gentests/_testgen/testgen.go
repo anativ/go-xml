@@ -12,10 +12,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/anativ/xml/internal/gen"
-	"github.com/anativ/xml/xmltree"
-	"github.com/anativ/xml/xsd"
-	"github.com/anativ/xml/xsdgen"
+	"github.com/anativ/go-xml/internal/gen"
+	"github.com/anativ/go-xml/xmltree"
+	"github.com/anativ/go-xml/xsd"
+	"github.com/anativ/go-xml/xsdgen"
 )
 
 func glob(pat string) string {

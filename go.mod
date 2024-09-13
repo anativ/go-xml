@@ -1,4 +1,4 @@
-module github.com/anativ/xml
+module github.com/anativ/go-xml
 
 
 go 1.22

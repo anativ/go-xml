@@ -3,7 +3,7 @@ package xsd
 import (
 	"encoding/xml"
 
-	"github.com/anativ/xml/xmltree"
+	"github.com/anativ/go-xml/xmltree"
 )
 
 type elementKey struct {

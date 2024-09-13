@@ -1,4 +1,4 @@
-package xsdgen // import "github.com/anativ/xml/xsdgen"
+package xsdgen // import "github.com/anativ/go-xml/xsdgen"
 
 import (
 	"bytes"
@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/anativ/xml/internal/dependency"
-	"github.com/anativ/xml/internal/gen"
-	"github.com/anativ/xml/xmltree"
-	"github.com/anativ/xml/xsd"
+	"github.com/anativ/go-xml/internal/dependency"
+	"github.com/anativ/go-xml/internal/gen"
+	"github.com/anativ/go-xml/xmltree"
+	"github.com/anativ/go-xml/xsd"
 )
 
 type orderedStringMap interface {

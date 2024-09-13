@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/anativ/xml/xsdgen"
+	"github.com/anativ/go-xml/xsdgen"
 )
 
 func main() {

@@ -1,5 +1,5 @@
 // Package wsdl parses Web Service Definition Language documents.
-package wsdl // import "github.com/anativ/xml/wsdl"
+package wsdl // import "github.com/anativ/go-xml/wsdl"
 
 import (
 	"bytes"
@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/anativ/xml/xmltree"
+	"github.com/anativ/go-xml/xmltree"
 )
 
 const (

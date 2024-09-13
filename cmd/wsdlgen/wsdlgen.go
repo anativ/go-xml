@@ -1,11 +1,11 @@
-package main // import "github.com/anativ/xml/cmd/wsdlgen"
+package main // import "github.com/anativ/go-xml/cmd/wsdlgen"
 
 import (
 	"log"
 	"os"
 
-	"github.com/anativ/xml/wsdlgen"
-	"github.com/anativ/xml/xsdgen"
+	"github.com/anativ/go-xml/wsdlgen"
+	"github.com/anativ/go-xml/xsdgen"
 )
 
 func main() {

@@ -9,8 +9,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/anativ/xml/internal/gen"
-	"github.com/anativ/xml/xsd"
+	"github.com/anativ/go-xml/internal/gen"
+	"github.com/anativ/go-xml/xsd"
 )
 
 // A Config holds user-defined overrides and filters that are used when
