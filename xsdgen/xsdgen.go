@@ -1149,3 +1149,9 @@ Loop:
 	}
 	return src.Attributes
 }
+
+
+
+func main() {
+	fmt.Println("Hello, from xsdgen!")
+}
