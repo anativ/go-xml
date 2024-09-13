@@ -1,8 +1,8 @@
 package wsdlgen
 
 import (
-	"aqwari.net/xml/wsdl"
-	"aqwari.net/xml/xsdgen"
+	"github.com/anativ/aqwari.net/xml/wsdl"
+	"github.com/anativ/aqwari.net/xml/xsdgen"
 )
 
 // A Config contains parameters for the various code generation processes.

@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"aqwari.net/xml/xsdgen"
+	"github.com/anativ/aqwari.net/xml/xsdgen"
 )
 
 func main() {
