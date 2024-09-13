@@ -1,4 +1,4 @@
-package xsdgen // import "github.com/anativ/aqwari.net/xml/xsdgen"
+package xsdgen // import "github.com/anativ/xml/xsdgen"
 
 import (
 	"bytes"
@@ -11,10 +11,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/anativ/aqwari.net/xml/internal/dependency"
-	"github.com/anativ/aqwari.net/xml/internal/gen"
-	"github.com/anativ/aqwari.net/xml/xmltree"
-	"github.com/anativ/aqwari.net/xml/xsd"
+	"github.com/anativ/xml/internal/dependency"
+	"github.com/anativ/xml/internal/gen"
+	"github.com/anativ/xml/xmltree"
+	"github.com/anativ/xml/xsd"
 )
 
 type orderedStringMap interface {

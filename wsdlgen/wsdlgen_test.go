@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/anativ/aqwari.net/xml/xsdgen"
+	"github.com/anativ/xml/xsdgen"
 )
 
 type testLogger struct {

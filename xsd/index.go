@@ -3,7 +3,7 @@ package xsd
 import (
 	"encoding/xml"
 
-	"github.com/anativ/aqwari.net/xml/xmltree"
+	"github.com/anativ/xml/xmltree"
 )
 
 type elementKey struct {

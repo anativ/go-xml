@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/anativ/aqwari.net/xml/xmltree"
+	"github.com/anativ/xml/xmltree"
 )
 
 func TestBindata(t *testing.T) {

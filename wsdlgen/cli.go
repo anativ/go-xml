@@ -7,9 +7,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/anativ/aqwari.net/xml/internal/commandline"
-	"github.com/anativ/aqwari.net/xml/internal/gen"
-	"github.com/anativ/aqwari.net/xml/xsdgen"
+	"github.com/anativ/xml/internal/commandline"
+	"github.com/anativ/xml/internal/gen"
+	"github.com/anativ/xml/xsdgen"
 )
 
 // The GenSource method converts the AST returned by GenAST to formatted

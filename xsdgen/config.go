@@ -9,8 +9,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/anativ/aqwari.net/xml/internal/gen"
-	"github.com/anativ/aqwari.net/xml/xsd"
+	"github.com/anativ/xml/internal/gen"
+	"github.com/anativ/xml/xsd"
 )
 
 // A Config holds user-defined overrides and filters that are used when

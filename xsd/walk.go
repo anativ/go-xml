@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/anativ/aqwari.net/xml/xmltree"
+	"github.com/anativ/xml/xmltree"
 )
 
 // When working with an xml tree structure, we naturally have some

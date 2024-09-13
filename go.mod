@@ -1,4 +1,5 @@
-module github.com/anativ/aqwari.net/xml
+module github.com/anativ/xml
+
 
 go 1.22
 

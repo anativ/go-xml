@@ -1,6 +1,6 @@
 // Package commandline contains helper types for collecting
 // command-line arguments.
-package commandline // import "github.com/anativ/aqwari.net/xml/internal/commandline"
+package commandline // import "github.com/anativ/xml/internal/commandline"
 
 import (
 	"bytes"

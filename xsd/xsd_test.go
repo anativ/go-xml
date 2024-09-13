@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/anativ/aqwari.net/xml/xmltree"
+	"github.com/anativ/xml/xmltree"
 )
 
 type blob map[string]interface{}

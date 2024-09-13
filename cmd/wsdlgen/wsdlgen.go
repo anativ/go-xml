@@ -1,11 +1,11 @@
-package main // import "github.com/anativ/aqwari.net/xml/cmd/wsdlgen"
+package main // import "github.com/anativ/xml/cmd/wsdlgen"
 
 import (
 	"log"
 	"os"
 
-	"github.com/anativ/aqwari.net/xml/wsdlgen"
-	"github.com/anativ/aqwari.net/xml/xsdgen"
+	"github.com/anativ/xml/wsdlgen"
+	"github.com/anativ/xml/xsdgen"
 )
 
 func main() {

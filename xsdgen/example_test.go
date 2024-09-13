@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/anativ/aqwari.net/xml/xsdgen"
+	"github.com/anativ/xml/xsdgen"
 )
 
 func tmpfile() *os.File {
